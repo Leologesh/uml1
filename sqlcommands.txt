@@ -1,0 +1,5 @@
+
+
+/*to delete command in mysql*/
+Delete from ajaxsample
+    -> where name='asd';
